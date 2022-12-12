@@ -1,0 +1,5 @@
+/checkpoints/*
+!/checkpoints/.gitkeep
+/output/*
+!/output/.gitkeep
+/raw

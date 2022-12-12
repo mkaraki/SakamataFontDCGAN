@@ -1,0 +1,3 @@
+[submodule "sfontproj"]
+	path = sfontproj
+	url = https://github.com/sakamata-ch/SakamataFontProject.git
